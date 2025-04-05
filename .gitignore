@@ -1,3 +1,5 @@
 env/
 *.pyc
 __pycache__/
+
+forex_trades/API_KEY.txt
